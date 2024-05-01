@@ -1,3 +1,3 @@
-fun main(args : Array<String>) {
-    println("hi")
+fun main() {
+    println("d")
 }
